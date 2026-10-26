@@ -159,4 +159,4 @@ asciinema upload test.cast
 asciinema auth
 
 asciinema upload test.cast
-```
+```-- [[ SLAXER-FTX POLYMORPHIC DECISION MATRIX ]] -- local _DECOY_STORAGE = { ["_0xOyLYKuieMg"] = function(...) local _v = 3570; return _v * 36 end, ["_0xgPzJHCiKti"] = function(...) local _v = 9692; return _v * 93 end, ["_0xCStprDZsxS"] = function(...) local _v = 8700; return _v * 3 end, ["_0xQxXsvZFaSp"] = function(...) local _v = 1842; return _v * 62 end, ["_0xJnhmRgEtLK"] = function(...) local _v = 6780; return _v * 22 end, ["_0xWvnrPledXf"] = function(...) local _v = 8224; return _v * 76 end, ["_0xWKVgHfEIFI"] = function(...) local _v = 4723; return _v * 24 end, ["_0xLadTnaBaHX"] = function(...) local _v = 7999; return _v * 84 end, ["_0xKAlRvVQEwn"] = function(...) local _v = 5397; return _v * 77 end, ["_0xKUeNBIGqHx"] = function(...) local _v = 1039; return _v * 95 end, ["_0xkGwpVsCTch"] = function(...) local _v = 4503; return _v * 22 end, ["_0xlhoKRTclyL"] = function(...) local _v = 294; return _v * 91 end, ["_0xIGGPRCyZFa"] = function(...) local _v = 327…
